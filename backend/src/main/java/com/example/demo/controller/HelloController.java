@@ -10,12 +10,14 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.text.MessageFormat;
 
+
 @RestController
 @CrossOrigin(
         origins = "http://localhost:4200",
         allowedHeaders = "*",
         methods = { RequestMethod.GET }
 )
+
 public class HelloController {
 
     @GetMapping("/hello")
