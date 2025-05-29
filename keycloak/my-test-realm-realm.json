@@ -1,5 +1,6 @@
 {
   "id" : "308bba17-5f3a-48e7-afce-5acf7b6b4486",
+
   "realm" : "my-test-realm",
   "notBefore" : 0,
   "defaultSignatureAlgorithm" : "RS256",
