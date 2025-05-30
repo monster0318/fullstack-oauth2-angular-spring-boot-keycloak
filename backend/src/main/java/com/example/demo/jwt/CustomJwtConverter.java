@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
+
 public class CustomJwtConverter implements Converter<Jwt, CustomJwt> {
 
     @Override
